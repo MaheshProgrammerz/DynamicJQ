@@ -1,0 +1,11 @@
+in this lession i will learn how to add file in the git repo
+how to check status 
+how to remove 
+
+
+commends git status 
+
+git add <fileName>
+
+git add all 
+git add .
